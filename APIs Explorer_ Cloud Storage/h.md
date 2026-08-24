@@ -10,7 +10,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/APIs%20Explorer%3A%20Cloud%20Storage/Hi.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/APIs%20Explorer_%20Cloud%20Storage/Hi.sh
 sudo chmod +x Hi.sh
 ./Hi.sh
 ```
