@@ -4,7 +4,7 @@
 ### 📌 Step 1: Main Cloud Shell Execution
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Analytics%20as%20a%20Services/gsp1042-1.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Analytics%20as%20a%20Services/gsp1042-1.sh
 sudo chmod +x gsp1042-1.sh
 ./gsp1042-1.sh
 ```
