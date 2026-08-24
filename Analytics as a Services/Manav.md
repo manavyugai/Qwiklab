@@ -13,7 +13,7 @@ sudo chmod +x gsp1042-1.sh
 ### Open the Customer A Cloud Shell and run the following commands:
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Analytics%20as%20a%20Services/gsp1042-2.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Analytics%20as%20a%20Services/gsp1042-2.sh
 sudo chmod +x gsp1042-2.sh
 ./gsp1042-2.sh
 ```
@@ -22,7 +22,7 @@ sudo chmod +x gsp1042-2.sh
 ### Open the Customer B Cloud Shell and execute the final script:
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Analytics%20as%20a%20Services/gsp1042-3.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Analytics%20as%20a%20Services/gsp1042-3.sh
 sudo chmod +x gsp1042-3.sh
 ./gsp1042-3.sh
 ```
