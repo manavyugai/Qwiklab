@@ -22,7 +22,7 @@ BG_WHITE=`tput setab 7`
 BOLD=`tput bold`
 RESET=`tput sgr0`
 
-#----------------------------------------------------start--------------------------------------------------#
+
 
 echo "${BG_MAGENTA}${BOLD}Starting Execution -ManavYugAi${RESET}"
 
@@ -104,7 +104,7 @@ gcloud spanner databases execute-sql banking-ops-db --instance=banking-ops-insta
 
 # Download customer data
 echo "${CYAN}${BOLD}Downloading customer data${RESET}"
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/main/Create%20and%20Manage%20Cloud%20Spanner%20Instances%3A%20Challenge%20Lab/Customer_List_500.csv
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Create%20and%20Manage%20Cloud%20Spanner%20Instances%20Challenge/Customer_List_500.csv
 
 # Prepare Dataflow
 echo "${CYAN}${BOLD}Preparing Dataflow service${RESET}"
@@ -166,4 +166,3 @@ gcloud spanner databases ddl update banking-ops-db --instance=banking-ops-instan
 echo "${BG_RED}${BOLD}Lab Completed Successfully - ${RESET}"
 echo "${BLUE}Thankyou${RESET}"
 
-#-----------------------------------------------------end----------------------------------------------------------#
