@@ -16,7 +16,7 @@ export REGION=
 
 ## Step 2☁️ Run in Cloud Shell:
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Cloud%20Storage%3A%20Qwik%20Start%20-%20Google%20Cloud%20Console/Krishna.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Cloud%20Storage_%20Qwik%20Start%20-%20Google%20Cloud%20Console/Krishna.sh
 sudo chmod +x Krishna.sh
 ./Krishna.sh
 ```
