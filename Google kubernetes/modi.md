@@ -22,8 +22,4 @@ sudo chmod +x *.sh
 ./*.sh
 ```
 
-# 🎉 Woohoo! You Did It! 🎉  
-
-Your hard work and determination paid off! 💻  
-You've successfully completed the lab. **Way to go!** 🚀
 
