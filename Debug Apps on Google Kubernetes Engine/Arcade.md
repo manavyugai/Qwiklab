@@ -1,4 +1,4 @@
-# 🌐 Debug Apps on Google Kubernetes Engine || GSP736 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/6878/labs/42715)
+# 🌐 Debug Apps on Google Kubernetes Engine || [GSP736](https://www.skills.google/games/6878/labs/42715)
 
 ## ⚠️ Disclaimer ⚠️
 
@@ -19,7 +19,7 @@ export ZONE=
 ```
 ## Step 2
 ```bash
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Debug%20Apps%20on%20Google%20Kubernetes%20Engine/Arcade.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Debug%20Apps%20on%20Google%20Kubernetes%20Engine/Arcade.sh
 sudo chmod +x Arcade.sh
 ./Arcade.sh
 ```
