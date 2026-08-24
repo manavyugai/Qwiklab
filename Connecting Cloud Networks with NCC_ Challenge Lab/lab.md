@@ -10,7 +10,7 @@
 
 ```bash
 
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Connecting%20Cloud%20Networks%20with%20NCC%3A%20Challenge%20Lab/Prince.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Connecting%20Cloud%20Networks%20with%20NCC_%20Challenge%20Lab/Prince.sh
 sudo chmod +x Prince.sh
 ./Prince.sh
 ```
