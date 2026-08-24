@@ -15,7 +15,7 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Cloud%20Spanner%20-%20Loading%20Data%20and%20Performing%20Backups/Prince.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Cloud%20Spanner%20-%20Loading%20Data%20and%20Performing%20Backups/Prince.sh
 sudo chmod +x Prince.sh
 ./Prince.sh
 ```
