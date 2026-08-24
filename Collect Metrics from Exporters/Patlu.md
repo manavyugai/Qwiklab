@@ -8,7 +8,7 @@
 ### Run the following Commands in CloudShell [if getting error run 2nd command)
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Collect%20Metrics%20from%20Exporters/Patlu.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Collect%20Metrics%20from%20Exporters/Patlu.sh
 sudo chmod +x Patlu.sh
 ./Patlu.sh
 ```
