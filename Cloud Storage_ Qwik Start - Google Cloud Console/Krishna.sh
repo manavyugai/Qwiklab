@@ -42,7 +42,7 @@ echo "${CYAN_TEXT}▶ Creating Cloud Storage bucket...${RESET_FORMAT}"
 gsutil mb -l $REGION -c Standard gs://$PROJECT_ID
 
 echo "${CYAN_TEXT}▶ Downloading required file...${RESET_FORMAT}"
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Cloud%20Storage%3A%20Qwik%20Start%20-%20Google%20Cloud%20Console/kitten.png
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Cloud%20Storage_%20Qwik%20Start%20-%20Google%20Cloud%20Console/kitten.png
 
 echo "${CYAN_TEXT}▶ Uploading file to Cloud Storage...${RESET_FORMAT}"
 gsutil cp kitten.png gs://$PROJECT_ID/kitten.png
