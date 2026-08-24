@@ -71,6 +71,6 @@ function onRemoveFromSpace(event) {
 ```
 ---
 
-## 🎉 Congratulations! Lab Completed Successfully! 🏆
+
 
 ---
