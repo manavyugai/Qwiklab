@@ -10,7 +10,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Implement%20Sensitive%20Data%20Protection%20on%20Google%20Cloud%3A%20Challenge%20Lab/Mahadev.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Implement%20Sensitive%20Data%20Protection%20on%20Google%20Cloud_%20Challenge%20Lab/Mahadev.sh
 sudo chmod +x Mahadev.sh
 ./Mahadev.sh
 ```
