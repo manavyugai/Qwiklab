@@ -8,7 +8,7 @@
 export LOCATION=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Organize%20and%20Govern%20Data%20with%20Knowledge%20Catalog/KKR.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Organize%20and%20Govern%20Data%20with%20Knowledge%20Catalog/KKR.sh
 sudo chmod +x KKR.sh
 ./KKR.sh
 ```
