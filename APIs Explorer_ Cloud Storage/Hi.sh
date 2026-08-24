@@ -54,11 +54,11 @@ echo "${CYAN}${BOLD}━━━━━━━━━━━━━━━━━━━━
 echo "${PURPLE}${BOLD}  [2] DOWNLOAD SAMPLE FILES${RESET}"
 echo "${CYAN}${BOLD}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET}"
 
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/APIs%20Explorer%3A%20Cloud%20Storage/demo-image1.png
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/APIs%20Explorer_%20Cloud%20Storage/demo-image1.png
 
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/APIs%20Explorer%3A%20Cloud%20Storage/demo-image2.png
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/APIs%20Explorer_%20Cloud%20Storage/demo-image2.png
 
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/APIs%20Explorer%3A%20Cloud%20Storage/demo-image1-copy.png
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/APIs%20Explorer_%20Cloud%20Storage/demo-image1-copy.png
 echo "${GREEN}${BOLD}✓ Sample files downloaded${RESET}"
 echo
 
