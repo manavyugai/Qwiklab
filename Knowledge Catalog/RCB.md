@@ -8,14 +8,12 @@
 export REGION=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Knowledge%20Catalog/RCB.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Knowledge%20Catalog/RCB.sh
 sudo chmod +x RCB.sh
 ./RCB.sh
 ```
 
 ### 🐼 Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
-#### *Well done!*
 
