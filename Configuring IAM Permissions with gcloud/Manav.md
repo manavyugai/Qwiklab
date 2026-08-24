@@ -1,4 +1,4 @@
-# 🌐 Configuring IAM Permissions with gcloud || GSP647 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/6670/labs/41734)
+# 🌐 Configuring IAM Permissions with gcloud || [GSP647](https://www.skills.google/games/6670/labs/41734)
 
 ## ⚠️ Disclaimer ⚠️
 
@@ -21,7 +21,7 @@ gcloud compute ssh centos-clean --zone=$ZONE --quiet
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Configuring%20IAM%20Permissions%20with%20gcloud/Meow.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Configuring%20IAM%20Permissions%20with%20gcloud/Meow.sh
 sudo chmod +x Meow.sh
 ./Meow.sh
 ```
