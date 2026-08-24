@@ -10,7 +10,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Automate%20Data%20Capture%20at%20Scale%20with%20Document%20AI%3A%20Challenge%20Lab/Saabun.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Automate%20Data%20Capture%20at%20Scale%20with%20Document%20AI_%20Challenge%20Lab/Saabun.sh
 sudo chmod +x Saabun.sh
 ./Saabun.sh
 ```
