@@ -9,17 +9,10 @@ export REGION=
 ```
 ### Run this
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Cloud%20Spanner/Motu.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Cloud%20Spanner/Motu.sh
 sudo chmod +x Motu.sh
 ./Motu.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-
-
-# [ManavYug AI](https://www.youtube.com/@manavyugai)
