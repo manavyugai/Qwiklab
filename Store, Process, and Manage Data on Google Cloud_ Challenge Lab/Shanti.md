@@ -10,7 +10,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%3A%20Challenge%20Lab/Shanti.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud_%20Challenge%20Lab/Shanti.sh
 sudo chmod +x Shanti.sh
 ./Shanti.sh
 ```
