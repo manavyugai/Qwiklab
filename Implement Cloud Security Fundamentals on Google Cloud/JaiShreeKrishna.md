@@ -10,7 +10,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Implement%20Cloud%20Security%20Fundamentals%20on%20Google%20Cloud/JaiShreeKrishna.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Implement%20Cloud%20Security%20Fundamentals%20on%20Google%20Cloud/JaiShreeKrishna.sh
 sudo chmod +x JaiShreeKrishna.sh
 ./JaiShreeKrishna.sh
 ```
