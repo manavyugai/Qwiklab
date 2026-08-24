@@ -8,14 +8,10 @@
 export REGION=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Knowledge%20Catalog/CSK.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Knowledge%20Catalog/CSK.sh
 sudo chmod +x CSK.sh
 ./CSK.sh
 ```
 
-### 🐼 Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
 
