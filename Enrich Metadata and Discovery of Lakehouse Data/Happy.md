@@ -11,7 +11,7 @@
 ## Step 1 : Run In cloud Shell
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Enrich%20Metadata%20and%20Discovery%20of%20Lakehouse%20Data/Happy.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Enrich%20Metadata%20and%20Discovery%20of%20Lakehouse%20Data/Happy.sh
 sudo chmod +x Happy.sh
 ./Happy.sh
 ```
