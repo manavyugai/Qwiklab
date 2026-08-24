@@ -19,7 +19,7 @@ export REGION=
 ```
 ## Step 2:
 ```bash
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Command%20Line/Cubbon.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Command%20Line/Cubbon.sh
 sudo chmod +x Cubbon.sh
 ./Cubbon.sh
 ```
