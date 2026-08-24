@@ -9,7 +9,7 @@ export REGION=
 ```
 #### 2
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/API%20Gateway/Prince.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/API%20GateWay/Prince.sh
 sudo chmod +x Prince.sh
 ./Prince.sh
 ```
