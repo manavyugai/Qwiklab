@@ -9,7 +9,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Deploy%20and%20Secure/GT.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Deploy%20and%20Secure/GT.sh
 sudo chmod +x GT.sh
 ./GT.sh
 ```
