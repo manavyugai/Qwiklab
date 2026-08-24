@@ -10,7 +10,7 @@
 ### Run the setup script in Cloud Shell:
 
 `````
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Manage%20Bigtable%20on%20Google%20Cloud%20Challenge%20Lab/Melody.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Manage%20Bigtable%20on%20Google%20Cloud%20Challenge%20Lab/Melody.sh
 sudo chmod +x Melody.sh
 ./Melody.sh
 ```````
