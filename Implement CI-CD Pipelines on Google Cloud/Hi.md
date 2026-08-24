@@ -9,7 +9,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Implement%20CI-CD%20Pipelines%20on%20Google%20Cloud/Yogi.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Implement%20CI-CD%20Pipelines%20on%20Google%20Cloud/Yogi.sh
 sudo chmod +x Yogi.sh
 ./Yogi.sh
 ```
