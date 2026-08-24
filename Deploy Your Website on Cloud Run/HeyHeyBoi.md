@@ -14,5 +14,5 @@ export REGION=
 ```
 ### Step 2
 ```
-curl -sSL "https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Deploy%20Your%20Website%20on%20Cloud%20Run/HeyHeyBoi.sh" | bash
+curl -sSL "https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Deploy%20Your%20Website%20on%20Cloud%20Run/HeyHeyBoi.sh" | bash
 ```
