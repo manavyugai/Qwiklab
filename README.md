@@ -15,7 +15,7 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Cloudmonitor.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Cloudmonitor.sh
 sudo chmod +x Cloudmonitor.sh
 ./Cloudmonitor.sh
 ```
