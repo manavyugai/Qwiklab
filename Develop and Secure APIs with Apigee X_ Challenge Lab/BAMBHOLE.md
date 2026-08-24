@@ -10,7 +10,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Develop%20and%20Secure%20APIs%20with%20Apigee%20X%3A%20Challenge%20Lab/BAMBHOLE.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Develop%20and%20Secure%20APIs%20with%20Apigee%20X_%20Challenge%20Lab/BAMBHOLE.sh
 sudo chmod +x BAMBHOLE.sh
 ./BAMBHOLE.sh
 ```
