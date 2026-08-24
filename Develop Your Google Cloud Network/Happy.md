@@ -15,7 +15,7 @@ export ZONE=
 ## Step 2 : Run In cloud Shell
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Develop%20Your%20Google%20Cloud%20Network/Happy.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Develop%20Your%20Google%20Cloud%20Network/Happy.sh
 sudo chmod +x Happy.sh
 ./Happy.sh
 ```
