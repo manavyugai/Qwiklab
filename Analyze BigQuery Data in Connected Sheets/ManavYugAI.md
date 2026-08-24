@@ -1,4 +1,4 @@
-# 🌐 Analyze BigQuery data in Connected Sheets: Challenge Lab || ARC103 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.cloudskillsboost.google/course_templates/632/labs/586830)
+# 🌐 Analyze BigQuery data in Connected Sheets: Challenge Lab || [ARC103](https://www.cloudskillsboost.google/course_templates/632/labs/586830)
 
 ## ⚠️ Disclaimer ⚠️
 
