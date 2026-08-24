@@ -11,7 +11,7 @@
 
 ## ☁️ Run in Cloud Shell:
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Implement%20Cloud%20Storage%20and%20Data%20Protection%20Solutions%3A%20Challenge%20Lab/gcp_cloud_storage_master.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Implement%20Cloud%20Storage%20and%20Data%20Protection%20Solutions_%20Challenge%20Lab/gcp_cloud_storage_master.sh
 sudo chmod +x gcp_cloud_storage_master.sh
 ./gcp_cloud_storage_master.sh
 ```
