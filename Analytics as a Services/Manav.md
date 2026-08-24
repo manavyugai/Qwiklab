@@ -27,9 +27,6 @@ sudo chmod +x gsp1042-3.sh
 ./gsp1042-3.sh
 ```
 
-# 🎉 Congratulations! 🎉
-You have successfully completed the lab!
 
-Great job working through the multi-tenant architecture setup. 💻✨
 
 
