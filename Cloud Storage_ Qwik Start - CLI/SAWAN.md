@@ -10,5 +10,5 @@
 
 
 ```
-curl -sSL "https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Cloud%20Storage%3A%20Qwik%20Start%20-%20CLI/Sawan.sh" | bash
+curl -sSL "https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Cloud%20Storage_%20Qwik%20Start%20-%20CLI/Sawan.sh" | bash
 ```
