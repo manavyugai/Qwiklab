@@ -15,7 +15,7 @@ export SERVICE_NAME=
 ```
 ### Step2
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/Manage%20Kubernetes%20in%20Google%20Cloud%20Challenge%20Lab/BABA.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/Manage%20Kubernetes%20in%20Google%20Cloud%20Challenge%20Lab/BABA.sh
 sudo chmod +x BABA.sh
 ./BABA.sh
 ```
