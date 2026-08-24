@@ -4,7 +4,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/manavyugai/Cloud-Monitoring/main/IAM%20Custom%20Roles/IAM.sh
-sudo chmod +x IAM.sh
-./IAM.sh
+curl -LO https://raw.githubusercontent.com/manavyugai/Qwiklab/main/IAM/Hello.sh
+sudo chmod +x Hello.sh
+./Hello.sh
 ```
