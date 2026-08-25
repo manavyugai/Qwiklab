@@ -1,7 +1,5 @@
 # Cloud Spanner - Loading Data and Performing Backups || [GSP1049](https://www.cloudskillsboost.google/games/6466/labs/40649)
 
-## ⚠️ Disclaimer ⚠️
-
 <blockquote style="background-color: #1e1e2e; color: #cdd6f4; border-left: 5px solid #89b4fa; border-radius: 8px; padding: 1.2em; font-family: sans-serif; font-size: 14px; line-height: 1.6; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
   <div style="color: #89b4fa; font-weight: bold; font-size: 16px; margin-bottom: 8px;">
     ℹ️ DISCLAIMER
