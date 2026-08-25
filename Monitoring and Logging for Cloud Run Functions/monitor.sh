@@ -20,9 +20,7 @@ UNDERLINE_TEXT=$'\033[4m'
 clear
 
 # Welcome message
-echo "${BLUE_TEXT}${BOLD_TEXT}=======================================${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}         INITIATING EXECUTION...  ${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}=======================================${RESET_FORMAT}"
+
 echo
 
 
@@ -153,10 +151,7 @@ gcloud alpha monitoring policies create --policy-from-file=stopped-vm-alert-poli
 
 # Final message
 
-echo
-echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
+GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 
 echo
 echo "${GREEN_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@manavyugai${RESET_FORMAT}"
